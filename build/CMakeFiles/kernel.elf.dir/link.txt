@@ -1,1 +1,0 @@
-gcc -m32 -nostdlib -nostdinc -fno-builtin -fno-stack-protector -nostartfiles -nodefaultlibs -ffreestanding -m elf_i386 -Ttext 0x1000 CMakeFiles/kernel.elf.dir/kernel.c.o -o kernel.elf 

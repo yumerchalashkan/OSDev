@@ -1,4 +1,0 @@
-/workspaces/OSDev/build/CMakeFiles/kernel.elf.dir
-/workspaces/OSDev/build/CMakeFiles/test.dir
-/workspaces/OSDev/build/CMakeFiles/edit_cache.dir
-/workspaces/OSDev/build/CMakeFiles/rebuild_cache.dir
